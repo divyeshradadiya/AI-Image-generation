@@ -1,2 +1,1 @@
-#  made by divyesh radadiya
-# ui_design
+# practice of api and request handling
